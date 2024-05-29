@@ -31,4 +31,4 @@
 
 
 
-Mini game text based made in python.
+Mini game text based made in python
